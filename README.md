@@ -19,6 +19,6 @@ dit is les 6
 
 3,derde
 
-[mijn website] https://37630.hosts2.ma-cloud.nl/
+[mijn website] (https://37630.hosts2.ma-cloud.nl/)
 
-[photo] 
+![photo] (1.png)
