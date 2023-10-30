@@ -1,23 +1,23 @@
 # Les6
 dit is les 6
 
--eerste
+- eerste
 
--tweede
+- tweede
 
--derde
+- derde
 
-#1
+# 1
 
-#2
+# 2
 
-#3
+# 3
 
-1,eerste
+1. eerste
 
-2,tweede
+2. tweede
 
-3,derde
+3. derde
 
 [mijn website] (https://37630.hosts2.ma-cloud.nl/)
 
